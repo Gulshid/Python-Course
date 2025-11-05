@@ -11,6 +11,7 @@
             # 10. Increment and Decrement in Python
             # 11. Multiple way to Define Incre / Decre
             # 12. Type Casting in Python
+            # 13. Escape Sequences
             
          # ****************** 
          # 2 . Installation of Python
@@ -27,10 +28,15 @@
          # 3. Editors in Python
          
          
-            # ****************** 
+         # ****************** 
          
          
          # 4. print and input Statement in Python
+         
+         # ****************** 
+         
+         
+         # 5. Variable and Constant in Python
          
          
          
