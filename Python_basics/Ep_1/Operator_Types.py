@@ -6,7 +6,7 @@
 
 # Types of Operator 
 # 1. Arthematic Operator ===> + , -, *, /, %
-# 2. Relational Operator ===> >, <, >=, <=, != , =
+# 2. Relational Operator ===> >, <, >=, <=, != , ==
 # 3. Logical Operator ===> and , or , not 
 # 4. Bitwise Operator ===> & , | , ! , ^
 # 5. Arthematic and Assignement Operator ===> +=, -=, *=, /=, %=

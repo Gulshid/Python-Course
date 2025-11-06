@@ -11,7 +11,7 @@
             # 10. Increment and Decrement in Python
             # 11. Multiple way to Define Incre / Decre
             # 12. Type Casting in Python
-            # 13. Escape Sequences
+            # 13. Escape Sequences , different way to display the value in print, in one how display two print (end method)
             
          # ****************** 
          # 2 . Installation of Python
