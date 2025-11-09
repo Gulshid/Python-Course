@@ -1,0 +1,14 @@
+# 1. How to Display a String Value
+# 2. How to add Two Number with and Without Third Variable
+# 3. How to Sub Two Number with and Without Third Variable
+# 4. How to Multiply Two Number with and Without Third Variable
+# 5. How to Divide Two Number with and Without Third Variable
+# 6. Write a Program in python that can input from user greeting message and then display
+# 7. Write a Program that can print all Datatype value
+# 8. Write a Program that can the Age of Person 
+# 9. Write a Program for Making Simple Calculator 
+# 10. Write a Program for Making Grading Calculator
+# 11. Write a Program for Number Guessing Game
+# 12. How to Swap two Number with and Without third Variable
+# 13. Write a Program for find the Area of Circle , Triangle, Rectangle
+# 14 Write a Program for COnversion of Celsius and Fahrenheit with each Other
