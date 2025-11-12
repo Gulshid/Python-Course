@@ -5,7 +5,7 @@
 # 5. How to Divide Two Number with and Without Third Variable
 # 6. Write a Program in python that can input from user greeting message and then display
 # 7. Write a Program that can print all Datatype value
-# 8. Write a Program that can the Age of Person 
+# 8. Write a Program that can input name and Age of Person and then display
 # 9. Write a Program for Making Simple Calculator 
 # 10. Write a Program for Making Grading Calculator
 # 11. Write a Program for Number Guessing Game
