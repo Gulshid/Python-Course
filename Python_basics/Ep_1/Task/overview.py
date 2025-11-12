@@ -7,8 +7,7 @@
 # 7. Write a Program that can print all Datatype value
 # 8. Write a Program that can input name and Age of Person and then display
 # 9. Write a Program for Making Simple Calculator 
-# 10. Write a Program for Making Grading Calculator
-# 11. Write a Program for Number Guessing Game
-# 12. How to Swap two Number with and Without third Variable
-# 13. Write a Program for find the Area of Circle , Triangle, Rectangle
-# 14 Write a Program for COnversion of Celsius and Fahrenheit with each Other
+# 10. Write a Program for Making Student Subject Calculator
+# 11. How to Swap two Number with and Without third Variable
+# 12. Write a Program for find the Area of Circle , Triangle, Rectangle
+# 13 Write a Program for COnversion of Celsius and Fahrenheit with each Other
