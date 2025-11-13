@@ -10,4 +10,4 @@
 # 10. Write a Program for Making Student Subject Calculator
 # 11. How to Swap two Number with and Without third Variable
 # 12. Write a Program for find the Area of Circle , Triangle, Rectangle
-# 13 Write a Program for COnversion of Celsius and Fahrenheit with each Other
+# 13 Write a Program for Conversion of Celsius and Fahrenheit with each Other
