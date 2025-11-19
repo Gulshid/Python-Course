@@ -5,4 +5,4 @@
                                     # 3. Switch and break Statment
                                     # 4. for , while loop 
                                     # 5. Nested loop
-                                    # 6. Ternary  Statement
+                                    
