@@ -1,5 +1,5 @@
                                 # ====================
-                                # || CONTROL FLOW TASKS ||
+                                # ||CONTROL FLOW TASKS||
                                 # =====================
 
 # 1. Number Printing
@@ -11,10 +11,11 @@
     # =============================
 
 # 2. Even & Odd Numbers (2 Methods)
+    #1.find the even and odd of any Number using if Statement Only 
 
-    #1. Find even & odd numbers using if condition inside loop
+    #2. Find even & odd numbers using if condition inside loop
 
-    #2. Find even & odd numbers using list slicing / step / modulus (second method)
+    #3. Find even & odd numbers using list slicing / step / modulus (second method)
     
     # =============================
 
