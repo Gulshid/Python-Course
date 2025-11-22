@@ -34,7 +34,7 @@
 
 # 5. Factorial
 
-    # 1.Find the factorial of any number (loop or function)
+    # 1.Find the factorial of any number (loop)
     # =============================
 
 # 6. Fibonacci Series
