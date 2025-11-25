@@ -33,7 +33,7 @@
     # =============================
 
 # 5. Factorial
-
+# Credit score
     # 1.Find the factorial of any number (loop)
     # =============================
 
@@ -101,7 +101,7 @@
 
 # Age
 
-# Credit score
+
 # =============================
 
 # 15. Interactive Quiz Game
