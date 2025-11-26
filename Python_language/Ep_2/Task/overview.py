@@ -119,24 +119,22 @@
 # Discount (student, senior citizen)
 # =============================
 
-# 17. Library Book Management System
 
-# Create a function borrow_book(name, book_id, issue_date, return_date)
 # =============================
 
-# 18. Patterns Printing
+# 17. Patterns Printing
 
 # Pattern 1: Increasing number pattern
 
 # Pattern 2: Decreasing number pattern
 # =============================
 
-# 19. Sum of Numbers
+# 18. Sum of Numbers
 
 # Calculate sum of first n natural numbers
 # =============================
 
-# 20. Skip a Specific Number
+# 19. Skip a Specific Number
 
 # Skip a number using:
 
