@@ -5,6 +5,7 @@ number = [1,2,3, 4.5, 6.7, 'Hello WOrld', True]
 print("Method No 1:")
 print(number)
 
+
 # Method 2
 print("Method No 2:")
 for w in range(len(number)):
@@ -15,3 +16,10 @@ print()
 print("Method No 3 :")
 for item in number:
     print(item, end= " ")
+    
+print()
+
+# Method 4
+print("Index wise Access Element :")
+print(number[0], number[1], number[2], number[3], number[4], number[5], number[6])
+

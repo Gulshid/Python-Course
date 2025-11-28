@@ -12,6 +12,7 @@
 # Ordered (index-based)
 a = [1,2,3,'Hello']
 
+
 # Mutable (can change)
 b = [1,2,3,'Hello'] ---> b = [1,2,3,4, 'Hello', 'World', True]
 
