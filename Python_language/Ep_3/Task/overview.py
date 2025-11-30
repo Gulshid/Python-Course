@@ -14,7 +14,8 @@
 # Task 5: Remove items (pop, remove, del)
 # Task 6: Use count() and index()
 # Task 7: Copy and join lists
-# Task 8: Create list from user input (separate even and odd numbers)
+# Task 8 a: How to take input from user at runtime in list
+# Task 8 b: Create list from user input (separate even and odd numbers)
 # Task 9: Find largest and smallest number in list
 # Task 10: Remove duplicates from list
 # Task 11: Calculate sum and average
