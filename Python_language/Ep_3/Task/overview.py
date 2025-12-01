@@ -32,7 +32,6 @@
 # Task 5: Find max and min in numeric tuple
 # Task 6: Display first, middle, last element
 # Task 7: Check if value exists in tuple
-# Task 8: input in tuple
 
 
 
