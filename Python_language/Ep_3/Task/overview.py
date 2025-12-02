@@ -41,9 +41,9 @@
 # Task 1: Create a set and display it
 # Task 2: Add/remove elements (add, remove, discard)
 # Task 3: Check length of set
-# Task 5: Remove duplicates from list using set
-# Task 6: Clear a set
-# Task 7: Find common and unique student IDs
+# Task 4: Remove duplicates from list using set
+# Task 5: Clear a set
+# Task 6: Find common and unique student IDs
 
 
 # ==============================
