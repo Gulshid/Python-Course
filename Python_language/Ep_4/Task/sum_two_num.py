@@ -2,6 +2,7 @@
 def add(var_1, var_2):
     # without third variable method
     # return var_1 + var_2
+    # return var_1 - var_2 ==? Subtraction
 
     # with third variable method
     var_3 = var_1 + var_2

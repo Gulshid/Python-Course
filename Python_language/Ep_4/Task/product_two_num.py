@@ -1,6 +1,7 @@
 # 4.Write a function that takes two numbers and returns their product.
 def product(x , y):
     return x * y
+    # return x / y 
 
 
 # function call
