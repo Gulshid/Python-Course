@@ -41,9 +41,11 @@
 
 # 14.Write a recursive function to print numbers from n down to 1.
 
-# 15.Write a recursive function to find the factorial of a number.
+# 15.Write a recursive function to find the sum of numbers 1 to n.
 
-# 16.Write a recursive function to find the sum of numbers 1 to n.
+# 16.Write a recursive function to find the factorial of a number.
+
+# 17.Write a recursive function to find the fibonocci of n series
 
 # **📚 Topic 6: *args and kwargs
 # Tasks
