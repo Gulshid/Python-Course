@@ -39,7 +39,7 @@
 # 📚 Topic 5: Recursion
 # Tasks
 
-# 14.Write a recursive function to print numbers from n down to 1.
+# 14.Write a recursive function to print numbers from n down to 1. 
 
 # 15.Write a recursive function to find the sum of numbers 1 to n.
 
@@ -50,24 +50,24 @@
 # **📚 Topic 6: *args and kwargs
 # Tasks
 
-# 17.Write a function using *args that returns the sum of all arguments.
+# 18.Write a function using *args that returns the sum of all arguments.
 
-# 18.Write a function using **kwargs that prints all key–value pairs.
+# 19.Write a function using **kwargs that prints all key–value pairs.
 
-# 19.Write a function that takes both *args and **kwargs together.
+# 20.Write a function that takes both *args and **kwargs together.
 
 # 📚 Topic 7: Functions With Lists
 # Tasks
 
-# 20.Write a function that returns all even numbers from a list.
+# 21.Write a function that returns all even numbers from a list.
 
-# 21.Write a function that returns the largest element in a list.
+# 22.Write a function that returns the largest element in a list.
 
-# 22.Write a function that removes duplicates from a list.
+# 23.Write a function that removes duplicates from a list.
 
 # 📚 Topic 8: Practical Function Programs
 # Tasks
 
-# 23.Write a function to count vowels in a string.
+# 24.Write a function to count vowels in a string.
 
-# 24.Write a function to check if a number is prime.
+# 25.Write a function to check if a number is prime.
