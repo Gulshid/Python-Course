@@ -17,7 +17,9 @@
 
 # 8. Polymorphism
 
-# 9. Method Overriding
+# 9. Method Overriding 
+#     Method Overriding means a child class replaces or changes 
+#     the behavior of a method that it inherited from the parent class.
 
 # 10. Method Overloading (conceptual in Python)
 
