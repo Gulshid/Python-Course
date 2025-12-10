@@ -27,10 +27,4 @@
 
 # Task 14: Create two child classes overriding start().
 
-# Task 15: Create a class showing encapsulation (private variable).
-
-# Task 16: Create parent-child classes showing inheritance.
-
-# Task 17: Create two classes with same method (polymorphism).
-
-# Task 18: Make one program showing all four OOP pillars.
+# Task 15: Make one program showing all four OOP pillars.
