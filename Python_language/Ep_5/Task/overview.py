@@ -1,4 +1,4 @@
-# ✅ Tasks List (Simple OOP Practice)
+#  Tasks  (Simple OOP Practice)
 # Task 1: Create a class Car with data members: brand, model. Add a function to display details.
 
 # Task 2: Create a class Student with constructor and a method show().
