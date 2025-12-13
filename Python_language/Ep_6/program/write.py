@@ -18,5 +18,5 @@ file_1.write(f"the addition of two value : {a + b}\n")
 line = ["This is File handling of python ===> \n","*** Addtion of two value *** \n",  f"the addition of two value : {a + b}"]
 
 file_1.writelines(line)
-file_1.close()
 
+file_1.close()
