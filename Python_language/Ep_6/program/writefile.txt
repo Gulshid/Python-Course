@@ -1,0 +1,6 @@
+This is File handling of python ===> 
+*** Addtion of two value *** 
+the addition of two value : 10
+This is File handling of python ===> 
+*** Addtion of two value *** 
+the addition of two value : 10
