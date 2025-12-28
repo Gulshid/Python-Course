@@ -14,31 +14,31 @@
             # 13. Escape Sequences , different way to display the value in print, in one how display two print (end method), identation
             
          # ****************** 
-         # 2 . Installation of Python
-         # 1. VS Code installed
+          # 2 . Installation of Python
+          # 1. VS Code installed
 
-         # 2. Python installed on your system
+          # 2. Python installed on your system
 
-         # 3. The Python extension for VS Code
-         
-         
-         # ****************** 
-         
-         
-         # 3. Editors in Python
-         
-         
-         # ****************** 
-         
-         
-         # 4. print and input Statement in Python
-         
-         # ****************** 
-         
-         
-         # 5. Variable and Constant in Python
-         
-         
+          # 3. The Python extension for VS Code
+          
+          
+          # ****************** 
+          
+          
+          # 3. Editors in Python
+          
+          
+          # ****************** 
+          
+          
+          # 4. print and input Statement in Python
+          
+          # ****************** 
+          
+          
+          # 5. Variable and Constant in Python
+          
+          
 
 
             
