@@ -139,8 +139,3 @@ print("List :", list_as, " To Set Conversion Set :",set_a)
 String_abc = "Hello ! This is Type Casting"
 set_abc = set(String_abc)
 print("String :", String_abc, " To Set Conversion Set :",set_abc )
-
-
-
-
-

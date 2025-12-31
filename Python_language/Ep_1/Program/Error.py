@@ -3,7 +3,7 @@
 # 1. Syntax Error
 
 print("Hello")
-print " Hello "
+# print (" Hello ")
 
 # 2. Semantic Error
 length = 2, width = 3

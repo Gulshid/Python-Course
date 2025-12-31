@@ -1,21 +1,33 @@
-# Exception Handling – Lecture (Task Type)
+# 🔹Chapter 7: LECTURES (Concept-Based Programs) Exception Handling
 
-# Task 1: Write a program that demonstrates the use of try and except blocks.
 
-# Task 2: Write a program to handle division by zero using exception handling.
+# 📖 Lecture 1: Introduction to Exception Handling
+# Concept: Handling runtime errors using try and except.
 
-# Task 3: Write a program to handle invalid user input using ValueError.
+# 📖 Lecture 2: Handling ZeroDivisionError
+# Concept: Prevent program crash when dividing by zero.
 
-# Task 4: Write a program that uses multiple except blocks to handle different exceptions.
 
-# Task 5: Write a program that demonstrates the use of the else block in exception handling.
+# 📖 Lecture 3: Handling ValueError
+# Concept: Error when converting invalid input.
 
-# Task 6: Write a program that demonstrates the use of the finally block.
+# 📖 Lecture 4: Multiple except Blocks
+# Concept: Handling different exceptions differently.
 
-# Task 7: Write a program to handle IndexError while accessing list elements.
+# 📖 Lecture 5: else Block in Exception Handling
+# Concept: else executes only if no exception occurs.
 
-# Task 8: Write a program to handle FileNotFoundError while opening a file.
+# 📖 Lecture 6: finally Block
+# Concept: Code that always executes.
 
-# Task 9: Write a program that raises a user-defined exception using raise.
+# 📖 Lecture 7: Handling IndexError
+# Concept: Error when accessing invalid index.
 
-# Task 10: Write a program that demonstrates all exception handling blocks.
+# 📖 Lecture 8: Handling FileNotFoundError
+# Concept: Error when file does not exist.
+
+# 📖 Lecture 9: User-Defined Exception (raise)
+# Concept: Raising exception manually.
+
+# 📖 Lecture 10: Complete Exception Structure
+# Concept: Using all blocks together.
