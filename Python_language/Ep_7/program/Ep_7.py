@@ -7,7 +7,6 @@
 # 📖 Lecture 2: Handling ZeroDivisionError
 # Concept: Prevent program crash when dividing by zero.
 
-
 # 📖 Lecture 3: Handling ValueError
 # Concept: Error when converting invalid input.
 
