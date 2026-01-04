@@ -1,4 +1,4 @@
-# Write a Program that can print all Datatype value
+#7. Write a Program that can print all Datatype value
 # Int Input 
 a = int(input("Enter the value for integer datatype :"))
 

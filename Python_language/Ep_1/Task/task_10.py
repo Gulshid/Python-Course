@@ -1,4 +1,4 @@
-# Write a Program for Making Student Subject  Calculator
+#10. Write a Program for Making Student Subject  Calculator
 name = str(input("Enter Your Name :"))
 Roll_no = int(input("Enter your Roll No :"))
 

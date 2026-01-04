@@ -1,4 +1,4 @@
-#  Multiply two value with and without third variable
+# 4. Multiply two value with and without third variable
 a = 3
 b = 4
 

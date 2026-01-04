@@ -1,4 +1,4 @@
-# Write a Program for making simple calculator
+#9. Write a Program for making simple calculator
 # +, -, *, / ---> Use
 print(" *** Simple Calculator ***")
 num_1 = int(input("Enter the value for num_1 :"))

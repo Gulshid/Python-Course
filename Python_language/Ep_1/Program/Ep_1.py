@@ -14,7 +14,7 @@
             # 13. Escape Sequences , different way to display the value in print, in one how display two print (end method), identation
             
          # ****************** 
-          # 2 . Installation of Python
+          # Lecture 2 . Installation of Python
           # 1. VS Code installed
 
           # 2. Python installed on your system
@@ -25,7 +25,7 @@
           # ****************** 
           
           
-          # 3. Editors in Python
+          # Lecture 3 Editors in Python
           
           
           # ****************** 
